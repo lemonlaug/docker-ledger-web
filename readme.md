@@ -1,3 +1,6 @@
+This fork of this repo uses a patched version of node-ledger-web,
+which has some version and stylistic tweaks.
+
 # Docker Ledger Web
 
 ## Build

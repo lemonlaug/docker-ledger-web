@@ -16,7 +16,6 @@ run npm install
 run npm install --global bower grunt-cli
 run bower --allow-root install
 run grunt
-run sed 's/example\/example.dat/\/ledger-files\/isaac_personal.ledger/' sample-config.json >> config.json
 
 expose 3000
 expose 3001
